@@ -2,6 +2,10 @@
 
 Here we are — sooner or later this moment had to come.
 
+
+<img src="images/Camila-walk.png" width="25%">
+
+
 ## Elsewhere
 
 Side notes, experiments and things in progress:
