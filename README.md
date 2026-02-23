@@ -2,6 +2,14 @@
 
 Here we are — sooner or later this moment had to come.
 
+## Elsewhere
+
+Side notes, experiments and things in progress:
+
+- GitHub Gists - https://gist.github.com/uduwat 
+- GDClouders - https://github.com/GDClouders 
+- LinkedIn - https://www.linkedin.com/in/landi-lrz/ 
+
 Platform Engineer working primarily on Kubernetes-based environments.
 
 I build and operate platforms with a strong focus on reliability, repeatability and long-term maintainability.
@@ -35,13 +43,6 @@ I care about operational clarity, reducing manual work and making things boring 
 
 Currently working mainly on private infrastructure, while continuously exploring cloud-native and public cloud ecosystems.
 
-## Elsewhere
-
-Side notes, experiments and things in progress:
-
-- GitHub Gists - https://gist.github.com/uduwat 
-- GDClouders - https://github.com/GDClouders 
-- LinkedIn - https://www.linkedin.com/in/landi-lrz/ 
 ---
 
 
