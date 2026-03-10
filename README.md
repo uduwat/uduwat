@@ -20,7 +20,7 @@ I build and operate platforms with a strong focus on reliability, repeatability 
 Most of my work revolves around cluster lifecycle management, automation and multi-cluster orchestration.
 
 I like working at the abstraction layer where infrastructure details start to fade and systems become reproducible patterns.  
-** Cattle, not pets. **
+**Cattle, not pets.**
 
 ## What I work on
 
