@@ -36,6 +36,7 @@ I like working at the abstraction layer where infrastructure details start to fa
 - Project Sveltos
 - Helm
 - Terraform
+- Ansible
 - Linux
 - Bash scripting
 
